@@ -1,0 +1,25 @@
+{
+  "name": "webpack-dev-fallbackServer",
+  "version": "0.0.0",
+  "description": "webpack-dev-server that support fallbackBase file serving",
+  "main": "WebpackDevFallbackServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericfong/webpack-dev-fallbackServer.git"
+  },
+  "keywords": [
+    "webpack-dev-server",
+    "fallbackBase",
+    "file",
+    "serving"
+  ],
+  "author": "Eric Fong <ericff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericfong/webpack-dev-fallbackServer/issues"
+  },
+  "homepage": "https://github.com/ericfong/webpack-dev-fallbackServer"
+}
