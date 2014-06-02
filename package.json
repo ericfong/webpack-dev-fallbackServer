@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/ericfong/webpack-dev-fallbackServer/issues"
   },
-  "homepage": "https://github.com/ericfong/webpack-dev-fallbackServer"
+  "homepage": "https://github.com/ericfong/webpack-dev-fallbackServer",
+  "dependencies": {
+    "express": "^4.4.0",
+    "mime": "^1.2.11",
+    "webpack": "^1.2.0-beta6",
+    "webpack-dev-middleware": "^1.0.6"
+  }
 }
